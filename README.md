@@ -1,5 +1,5 @@
 # Data-analysis-using-Python
-This the project in which i performed the following task :
+In this project i have performed the following task :
 - Merged all months data into one a year data (All_Data) to perform analysis on overall 1 year data
 - Made some new columns and change some columns datatype so that data should be cleaned and will be easy to work
 - Analysed the data and answered 5 business question with the analysis
