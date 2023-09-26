@@ -4,7 +4,8 @@ In this project i have performed the following task :
 - Made some new columns and change some columns datatype so that data should be cleaned and will be easy to work
 - Analysed the data and answered 5 business question with the analysis
 - and also provided some graphical measure to understand the data more easily.
-- I have attached All_data(Raw Data) , Data analysis using Python file which is a jupyter file
-- Follow the file to see the work.
-                Thankyou   
+- I have attached 'All_data(Raw Data)' .csv file , 'Data analysis using Python' which is a jupyter file
+- libraries used Pandas, matplotlib mostly
+- Open the file to see the work.
+-Thankyou   
 
